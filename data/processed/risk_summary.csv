@@ -1,0 +1,9 @@
+station,n_events,avg_duration,max_peak,total_days,area_name,name,river,type,risk,lat,lon,pop_at_risk
+aurajoki_turku,13,13.384615384615385,1.165,174,Turku,Turku,Aurajoki,coastal,medium,60.447,22.265,4100
+kemijoki_isohaara,12,13.666666666666666,3.869,164,Kemi-Tornio,Kemi-Tornio,Kemijoki,coastal,high,65.734,24.558,4800
+kemijoki_rovaniemi,19,8.736842105263158,78.796,166,Rovaniemi,Rovaniemi,Kemijoki,fluvial,very_high,66.498,25.716,3800
+kokemaenjoki_pori,17,10.294117647058824,3.107,175,Pori,Pori,Kokemäenjoki,fluvial,very_high,61.492,21.799,5200
+kokemaenjoki_tampere,13,12.692307692307692,79.302,165,Tampere,Tampere,Nokianvirta,fluvial,medium,61.467,23.521,3200
+kymijoki_kouvola,14,11.785714285714286,12.254,165,Kouvola,Kouvola,Kymijoki,fluvial,medium,60.876,26.7,900
+oulujoki_oulu,11,15.090909090909092,4.675,166,Oulu,Oulu,Oulujoki,fluvial,high,65.007,25.459,6200
+vuoksi_imatra,13,13.153846153846153,4.443,171,Imatra-Joutseno,Imatra-Joutseno,Vuoksi,fluvial,medium,61.164,28.777,1900

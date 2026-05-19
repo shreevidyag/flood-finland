@@ -1,0 +1,9 @@
+station_key,id,river,city,lat,lon
+kemijoki_rovaniemi,4400810,Kemijoki,Rovaniemi,66.498,25.716
+kemijoki_isohaara,6900100,Kemijoki,Kemi,65.734,24.558
+kokemaenjoki_pori,3500200,Kokemäenjoki,Pori,61.492,21.799
+kokemaenjoki_tampere,3510400,Nokianvirta,Nokia,61.467,23.521
+kymijoki_kouvola,1400400,Kymijoki,Kouvola,60.876,26.7
+vuoksi_imatra,4300700,Vuoksi,Imatra,61.164,28.777
+oulujoki_oulu,5900100,Oulujoki,Oulu,65.007,25.459
+aurajoki_turku,2200100,Aurajoki,Turku,60.447,22.265

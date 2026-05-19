@@ -1,0 +1,9 @@
+station,n_years,mean_level_m,std_level_m,mk_statistic,p_value,sen_slope_per_year,trend
+aurajoki_turku,10,0.521,0.107,0.1789,0.858,0.004317,no_significant_trend
+kemijoki_isohaara,10,1.801,0.316,0.0,1.0,0.011064,no_significant_trend
+kemijoki_rovaniemi,10,75.371,0.624,0.0,1.0,0.014375,no_significant_trend
+kokemaenjoki_pori,10,1.531,0.21,0.0,1.0,0.005308,no_significant_trend
+kokemaenjoki_tampere,10,78.116,0.247,0.0,1.0,0.007834,no_significant_trend
+kymijoki_kouvola,10,10.78,0.282,0.0,1.0,0.005423,no_significant_trend
+oulujoki_oulu,10,2.268,0.387,0.0,1.0,0.005647,no_significant_trend
+vuoksi_imatra,10,3.645,0.142,0.1789,0.858,0.005447,no_significant_trend

@@ -1,0 +1,7 @@
+station,city,n_months,pearson_r,p_value,significant
+kemijoki_rovaniemi,Rovaniemi,120,-0.175,0.0554,False
+kemijoki_isohaara,Rovaniemi,120,-0.176,0.0539,False
+kokemaenjoki_pori,Pori,120,-0.209,0.0217,True
+kokemaenjoki_tampere,Tampere,120,-0.293,0.0011,True
+oulujoki_oulu,Oulu,120,-0.185,0.0434,True
+aurajoki_turku,Turku,120,-0.23,0.0115,True

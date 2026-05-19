@@ -1,0 +1,23 @@
+name,river,type,risk,lat,lon,pop_at_risk
+Rovaniemi,Kemijoki,fluvial,very_high,66.498,25.716,3800
+Pori,Kokemäenjoki,fluvial,very_high,61.492,21.799,5200
+Tornio-Haaparanta,Tornionjoki,fluvial,high,65.845,24.157,2100
+Lauhanvuori area,Lapväärtinjoki,fluvial,high,62.133,22.1,1200
+Seinäjoki,Kyrönjoki,fluvial,high,62.789,22.829,2400
+Kristiinankaupunki,Lapväärtinjoki,coastal,high,62.273,21.377,800
+Kokkola,Perhonjoki,coastal,high,63.837,23.13,3100
+Vaasa,Kyrönjoki,coastal,high,63.092,21.614,4500
+Oulu,Oulujoki,fluvial,high,65.007,25.459,6200
+Kemi-Tornio,Kemijoki,coastal,high,65.734,24.558,4800
+Iisalmi,Porovesi,fluvial,medium,63.557,27.192,1400
+Imatra-Joutseno,Vuoksi,fluvial,medium,61.164,28.777,1900
+Lappeenranta,Saimaa,fluvial,medium,61.058,28.188,2300
+Mikkeli,Saimaa,fluvial,medium,61.688,27.272,1100
+Tampere,Nokianvirta,fluvial,medium,61.467,23.521,3200
+Turku,Aurajoki,coastal,medium,60.447,22.265,4100
+Helsinki,Vantaanjoki,pluvial,medium,60.192,24.946,12000
+Porvoo,Porvoonjoki,fluvial,medium,60.396,25.661,1600
+Kouvola,Kymijoki,fluvial,medium,60.876,26.7,900
+Joensuu,Pielisjoki,fluvial,medium,62.6,29.763,2700
+Lieksa,Lieksanjoki,fluvial,low,63.313,30.023,700
+Kemijärvi,Kemijoki,fluvial,low,66.712,27.424,500

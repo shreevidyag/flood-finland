@@ -10,6 +10,9 @@ A complete data analytics project using **real Finnish flood and hydrology data*
 ![Data](https://img.shields.io/badge/Data-CC%20BY%204.0-orange)
 
 ---
+## Live demo
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://flood-finland-9sdmpzsynjvpculbkyqygc.streamlit.app/)
+--------
 
 ## What This Project Does
 

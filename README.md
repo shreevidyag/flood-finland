@@ -1,4 +1,4 @@
-# 🌊 Finland Flood Data Analytics
+# Finland Flood Data Analytics
 
 A complete data analytics project using **real Finnish flood and hydrology data** from the
 [Finnish Environment Institute (SYKE)](https://www.syke.fi/en-US) and
@@ -11,7 +11,7 @@ A complete data analytics project using **real Finnish flood and hydrology data*
 
 ---
 
-## 🗺️ What This Project Does
+## What This Project Does
 
 This project downloads, analyses, and visualises flood data across Finland's
 major river basins. It covers 8 monitoring stations, 22 official EU flood risk
@@ -27,7 +27,7 @@ areas, and 10 years of daily hydrology data.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 flood-finland/
@@ -47,7 +47,7 @@ flood-finland/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Clone the repo
 ```bash
@@ -90,7 +90,7 @@ Opens at **http://localhost:8501**
 
 ---
 
-## 📊 Dashboard Pages
+## Dashboard Pages
 
 | Page | What it shows |
 |------|--------------|
@@ -201,4 +201,4 @@ A p-value below 0.05 indicates a statistically significant trend.
 
 ## 👤 Author
 
-Built as a data analytics portfolio project using open Finnish government data.
+Shree Vidya Gurudath. Built as a data analytics portfolio project using open Finnish government data.

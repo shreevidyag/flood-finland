@@ -97,18 +97,18 @@ Opens at **http://localhost:8501**
 
 | Page | What it shows |
 |------|--------------|
-| 📊 Overview | Key metrics, top flood events, risk level distribution |
-| 📈 Water Levels | Interactive time series per station with rolling mean |
-| 🌧️ Precipitation & Discharge | River flow rates and monthly climatology |
-| 🔴 Flood Events | Timeline and table of all detected flood events |
-| 📅 Seasonal Analysis | Monthly water level patterns — spring and autumn peaks |
-| 📉 Return Periods | Gumbel EV-I frequency curves + official SYKE hazard levels |
-| 🗺️ Risk Map | Interactive map of Finland's 22 EU flood risk areas |
-| 📋 Trend Analysis | Long-term Mann-Kendall trends per station |
+| Overview | Key metrics, top flood events, risk level distribution |
+| Water Levels | Interactive time series per station with rolling mean |
+| Precipitation & Discharge | River flow rates and monthly climatology |
+| Flood Events | Timeline and table of all detected flood events |
+| Seasonal Analysis | Monthly water level patterns — spring and autumn peaks |
+| Return Periods | Gumbel EV-I frequency curves + official SYKE hazard levels |
+| Risk Map | Interactive map of Finland's 22 EU flood risk areas |
+| Trend Analysis | Long-term Mann-Kendall trends per station |
 
 ---
 
-## 🏞️ Monitoring Stations
+## Monitoring Stations
 
 | Station | River | City |
 |---------|-------|------|
@@ -123,7 +123,7 @@ Opens at **http://localhost:8501**
 
 ---
 
-## 🗺️ Flood Risk Areas Covered
+## Flood Risk Areas Covered
 
 Finland has 22 nationally designated flood risk areas under the
 EU Floods Directive (2007/60/EC). This project covers all of them including:
@@ -136,7 +136,7 @@ EU Floods Directive (2007/60/EC). This project covers all of them including:
 
 ---
 
-## 📦 Data Sources
+## Data Sources
 
 | Source | Data | License |
 |--------|------|---------|
@@ -150,7 +150,7 @@ EU Floods Directive (2007/60/EC). This project covers all of them including:
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 ```bash
 pytest tests/ -v
@@ -163,7 +163,7 @@ Mann-Kendall trend test, and seasonal statistics.
 
 ---
 
-## ☁️ Deploy to Streamlit Cloud
+## Deploy to Streamlit Cloud
 
 1. Push this repo to GitHub
 2. Go to [share.streamlit.io](https://share.streamlit.io)
@@ -176,7 +176,7 @@ The dashboard auto-fetches all data on first load — no setup needed.
 
 ---
 
-## 🔬 Methods
+## Methods
 
 ### Flood Detection
 Water level observations are compared against a station-specific 95th percentile
@@ -195,7 +195,7 @@ A p-value below 0.05 indicates a statistically significant trend.
 
 ---
 
-## 📄 License
+## License
 
 - **Code:** MIT License
 - **Data:** CC BY 4.0 — Finnish Environment Institute (SYKE) & Finnish Meteorological Institute (FMI)
